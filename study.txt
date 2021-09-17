@@ -33,3 +33,13 @@ number / string / boolean / array / object
 
 변수 variable
 
+http://localhost/?id=HTML
+
+id=HTML - 쿼리스트링
+
+쿼리스트링을 바꿔서 컨텐츠의 항목 바꾸기
+parse 분석한다라는 뜩
+
+
+nodejs file read
+file system(fs)
