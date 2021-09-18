@@ -43,3 +43,12 @@ parse 분석한다라는 뜩
 
 nodejs file read
 file system(fs)
+
+프로그램 - 기계적으로 일 시키기 (순차적으로 위->아래)
+
+이러한 순서에 조건을 달고 싶을 때 조건문 사용
+
+제어문 - 조건문(conditional statement), 반복문
+
+입력(파라미터(Parameter) - 입력되는 정보의 형식)
+   (아규먼트(Argument) - 입력되는 정보의 값)
