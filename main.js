@@ -33,7 +33,7 @@ var app = http.createServer(function(request,response){
         response.end(template);
       });
     } else {
-      response.writeHead(404); //파일을 찾을 수 없음
+      response.writeHead(404);
       response.end('Not found');
     }
  
@@ -41,3 +41,4 @@ var app = http.createServer(function(request,response){
  
 });
 app.listen(3000);
+console.log("start");
